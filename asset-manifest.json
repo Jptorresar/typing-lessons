@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/typing-lessons/static/css/main.fabb0982.css",
+    "main.js": "/typing-lessons/static/js/main.26a2f4c2.js",
+    "static/js/453.d72cc594.chunk.js": "/typing-lessons/static/js/453.d72cc594.chunk.js",
+    "static/media/hands.png": "/typing-lessons/static/media/hands.e789674096789ed88222.png",
+    "static/media/Typetastic.png": "/typing-lessons/static/media/Typetastic.243ace450e3d7532857a.png",
+    "static/media/resource1.png": "/typing-lessons/static/media/resource1.4009c6db13a6fed53ce0.png",
+    "static/media/Typing.png": "/typing-lessons/static/media/Typing.5fc10e831851177e6438.png",
+    "static/media/teclado.JPG": "/typing-lessons/static/media/teclado.b74c89b60d342b367f41.JPG",
+    "index.html": "/typing-lessons/index.html",
+    "main.fabb0982.css.map": "/typing-lessons/static/css/main.fabb0982.css.map",
+    "main.26a2f4c2.js.map": "/typing-lessons/static/js/main.26a2f4c2.js.map",
+    "453.d72cc594.chunk.js.map": "/typing-lessons/static/js/453.d72cc594.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fabb0982.css",
+    "static/js/main.26a2f4c2.js"
+  ]
+}
