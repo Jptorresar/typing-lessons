@@ -1,0 +1,50 @@
+.objetives {
+    min-width: auto;
+    max-width: 1170px;
+    height: 5rem;
+    margin: 10px 10px 20px;
+    display: block;
+    align-items: center;
+    justify-content: baseline;
+    flex-direction: column;
+}
+
+.secction{
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.ob_title{
+    font-size: 3.5rem;
+    color: #0d0a1e; 
+    font-weight: bold;
+    text-transform: uppercase; 
+    letter-spacing: 2px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Sombra ligera */
+    margin-bottom: 16px;
+    margin-top: 150px;
+}
+
+.ob_subtitle{
+    font-size: 2rem; 
+    font-weight: semi-bold;
+    color: #1a153c; 
+    letter-spacing: 1.5px; 
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2); 
+    margin-bottom: 12px;
+}
+
+.info-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+        
+}

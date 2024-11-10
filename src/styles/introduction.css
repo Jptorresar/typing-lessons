@@ -1,0 +1,25 @@
+.introduction{
+    min-width: auto;
+    max-width: 1170px;
+    height: 368px;
+    margin: 10px 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d9d6ea;
+    box-shadow: 0 3px 13px 1px #0d0a1e;   
+    border-radius: 4%;
+    border-style: groove;
+    
+}
+
+.title {
+    font-size: 3.5rem;
+    margin: 0px 10px 80px;
+    color: #0d0a1e;
+}
+.text{
+    font-size: 1.5rem;
+    margin: 10px 10px 10px;
+    color: #1a153c;
+}

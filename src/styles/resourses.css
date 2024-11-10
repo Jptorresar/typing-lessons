@@ -1,0 +1,17 @@
+.visuals {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 10px; /* Espacio entre la imagen y el borde */
+    border: 10px solid #0d0a1e; /* Color y grosor del borde */
+    border-radius: 8px; /* Bordes redondeados */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Sombra alrededor del marco */
+    background-color: #fff; /* Fondo del marco */
+    margin-bottom: 60px;
+}
+
+.manos {
+    display: block;
+    max-width: 100%; /* Asegura que la imagen no desborde el marco */
+    border-radius: 4px; /* Bordes ligeramente redondeados para la imagen */
+}

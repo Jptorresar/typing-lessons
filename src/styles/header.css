@@ -1,0 +1,29 @@
+.header{
+    background-color: #403497;
+    padding: 10px;
+    text-align: center;
+    position: static;
+    color: white;
+    top: 0;
+    width: 100%;
+  }
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color: lightgray
+}
+
+.footer{
+  background-color: #403497;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  position: static;
+  bottom: 0;
+  width: 100%;
+  justify-content: end;
+}
