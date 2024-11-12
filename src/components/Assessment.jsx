@@ -16,16 +16,17 @@ function Assessment() {
         <div class="info-caja">
           <h2>Summative Assessment</h2>
           <ul>
-            <li>
-              Typetastic level completion. 
-            </li>
-            <li>Small-group typing assessments
-            focused</li>
+            <li>Typetastic level completion.</li>
+            <li>Small-group typing assessments focused</li>
             <li>on accuracy and key function.</li>
             <a
-            className="link" 
-            href="https://new.express.adobe.com/id/urn:aaid:sc:US:33c3fc39-dbbf-490c-a755-79c2a148f6c3?category=search&learn=for-you"
-            >Link</a>
+              className="link"
+              href="https://new.express.adobe.com/id/urn:aaid:sc:US:33c3fc39-dbbf-490c-a755-79c2a148f6c3?category=search&learn=for-you"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Link
+            </a>
           </ul>
         </div>
         <div class="info-caja">
@@ -37,11 +38,14 @@ function Assessment() {
         </div>
       </div>
       <div className="introduction">
-            <div className='text-box'>
-                <h1 className='title'>Sample Parent Message</h1>
-                <p className="text">For Chromebooks to be charged, please ensure they’re plugged in the night before.</p>
-            </div>
+        <div className="text-box">
+          <h1 className="title">Sample Parent Message</h1>
+          <p className="text">
+            For Chromebooks to be charged, please ensure they’re plugged in the
+            night before.
+          </p>
         </div>
+      </div>
     </div>
   );
 }

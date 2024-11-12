@@ -15,3 +15,21 @@
     max-width: 100%; /* Asegura que la imagen no desborde el marco */
     border-radius: 4px; /* Bordes ligeramente redondeados para la imagen */
 }
+
+.contenedor-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+}
+
+.link-caja {
+    flex: 1 1 45%;
+    padding: 60px; /* Aumenta el relleno para agrandar la caja */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 500px; /* Aumenta el ancho máximo para hacer la caja más grande */
+    font-size: 1.5rem; /* Aumenta el tamaño de la fuente dentro de la caja */
+}
