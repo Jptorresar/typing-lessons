@@ -18,7 +18,7 @@ function Lessons() {
   return (
     <>
       <h1 className="title">Lesson Plan Overview</h1>
-      <div className="info-container">
+      <div className="info-container-lessons">
       {Data.map((item) => (
         <div key={item.id}> {/* Asegúrate de incluir una key única */}
           <button className="button-2" onClick={() => openModal(item.id)}>
