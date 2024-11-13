@@ -37,15 +37,6 @@ function Assessment() {
           </ul>
         </div>
       </div>
-      <div className="introduction">
-        <div className="text-box">
-          <h1 className="title">Sample Parent Message</h1>
-          <p className="text">
-            For Chromebooks to be charged, please ensure they’re plugged in the
-            night before.
-          </p>
-        </div>
-      </div>
     </div>
   );
 }
